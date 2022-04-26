@@ -1,3 +1,5 @@
-# MyRepository
-My first repository on GitHub
-This is my data science project
+# My Super Data Science Project
+This is my fantastic data science project  
+## Interested?
+
+* [Project game 'What a number?!'] https://github.com/An-Ser/MyRepository/blob/main/game.ipynb
