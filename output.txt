@@ -1,3 +1,0 @@
-This is a test string
-||IDE/output.txtThis is a new string
-||IDE/output.txt
